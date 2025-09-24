@@ -1,43 +1,53 @@
-# 👋 Hi, I’m @auokky
+# 👋 Hi, I'm @auokkyy
 
-Welcome to my GitHub profile! 🚀  
-I’m currently learning and exploring how to use GitHub effectively.  
-My interests include **documentation, learning resources, and open-source collaboration**.  
+Welcome to my GitHub profile! 🌟  
+I’m learning, exploring, and documenting my journey step by step.  
 
 ---
 
 ## 🌱 What I’m Learning
-- Basics of Git & GitHub  
+- Git & GitHub basics  
 - How to contribute to open-source (even without coding)  
-- Improving documentation and translations  
+- Writing documentation, guides, and sharing resources  
 
 ---
 
-## 📂 My Repositories
-- 📘 [Resources Collection](#) – A list of free learning resources (coming soon)  
-- 📝 [Notes & Docs](#) – My personal learning notes and documentation  
+## 💡 Interests & Skills
+- Documentation & Note-taking  
+- Resource collection & curation  
+- Exploring open-source projects  
+- Learning new tools & technologies  
 
-*(I’ll keep updating and adding more projects!)*  
+---
+
+## 📂 Featured Repositories
+- 📘 [Resources Collection](#) – Curated list of free learning resources  
+- 📝 [Notes & Docs](#) – Personal learning notes & documentation  
+
+*(More projects coming soon!)*  
 
 ---
 
 ## 🤝 How I Contribute
-- Improving README and documentation  
-- Fixing typos and formatting  
-- Sharing resources and guides  
-- Raising issues for bugs or improvements  
+- Improving README & project documentation  
+- Fixing typos & formatting  
+- Sharing helpful resources  
+- Reporting issues and suggesting improvements  
 
 ---
 
-## 📊 My GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=auokky&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=auokkyy&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=auokkyy&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🔗 Connect with Me
-- GitHub: [@auokky](https://github.com/auokky)  
-- (Add your LinkedIn, Twitter, or any link here if you want)
+- GitHub: [@auokkyy](https://github.com/auokkyy)  
+- LinkedIn: *https://linkedin/auokky*   
+- Twitter: *https://x.com/auokky*   
 
 ---
 
-⭐️ Don’t forget to check my repositories and leave a star if you like them!
+⭐️ Check out my repositories and leave a star if you find them useful!  
